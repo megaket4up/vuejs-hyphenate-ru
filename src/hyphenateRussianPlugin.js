@@ -30,7 +30,7 @@ export const hyphenateDirective = {
 
 const myselectPlugin = {
     install: function (Vue, options) {
-        Vue.directive('hyphenate', directive);
+        Vue.directive('hyphenate', hyphenateDirective);
     },
 };
 
