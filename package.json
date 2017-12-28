@@ -1,0 +1,16 @@
+{
+    "name": "vuejs-hyphenate-ru",
+    "version": "0.0.1",
+    "description": "A Vuejs russian hyphenate plugin (Vuejs russian hyphenate directive)",
+    "main": "src/hyphenateRussianPlugin.js",
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:megaket4up/vuejs-hyphenate-ru.git"
+    },
+    "keywords": [
+      "hyphenate",
+      "vuejs"
+    ],
+    "author": "megaket4up",
+    "license": "MIT"
+}
