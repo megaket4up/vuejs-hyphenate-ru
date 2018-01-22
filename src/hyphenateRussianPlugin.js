@@ -23,7 +23,7 @@ export function hyphenate(text) {
 }
 
 export const hyphenateDirective = {
-    inserted(el) {
+    inserted: function (el) {
         el.innerText = hyphenate(el.innerText);
     }
 };
